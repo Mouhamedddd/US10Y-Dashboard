@@ -55,6 +55,7 @@ TEAM
 ----
 - DIALLO Mouhamed
 - CHERIF Eya
+
 NOTES
 -----
 - This project is part of an academic assignment to demonstrate live web scraping,
