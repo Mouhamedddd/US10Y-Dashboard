@@ -27,11 +27,17 @@ PROJECT FEATURES
 PROJECT STRUCTURE
 -----------------
 us10y-yield-dashboard/
+
 ├── Templates/
+
 │   └── index.html            # HTML, CSS, and Javascript code
+
 ├── dashboard.py               # python code to treat the data and to display the page
+
 ├── scrap.sh     # sh code to scrap the datas
+
 ├── yield.csv           # csv where we scrap stock the data
+
 ├── README.md                       # This file
 
 USAGE
